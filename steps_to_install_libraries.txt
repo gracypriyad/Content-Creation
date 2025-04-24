@@ -1,0 +1,21 @@
+1.Open Anaconda Prompt 
+2. create environment using : conda create -n sentiment python=3.9.1
+3. Activate created environment : conda activate sentiment
+
+
+4. nstall all required libraries from requirements file using 'pip'
+
+
+opening the sentiment analysis app.
+
+(base) C:\Users\DELL>conda activate sentiment
+
+(sentiment) C:\Users\DELL>cd C:\Users\DELL\OneDrive\Desktop\sent_final
+
+(sentiment) C:\Users\DELL\OneDrive\Desktop\sent_final>python app.py
+
+
+
+
+just to launch jupyter lab:
+(sentiment) C:\Users\DELL\OneDrive\Desktop\sent_final>jupyter lab
